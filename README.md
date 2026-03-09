@@ -9,7 +9,7 @@ Secondary major: Criminal Justice with a minor in Cybersecurity.
 
 
 
-### Programming Languages
+## Programming Languages
 C++
 
 Python
@@ -17,7 +17,7 @@ Python
 
 
 
-#### Contact info
+## Contact info
 Email: Kpena3@hotmail.com
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/krizpena)
