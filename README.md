@@ -1,5 +1,5 @@
 ## About Me
-Hi, I'm Kriz. I'm a Computer Science and Criminal Justice double major at The University of Texas Rio Grande Valley, with a minor in Cybersecurity.
+Hi, I'm Kriz. I'm a Computer Science and Criminal Justice double major at The University of Texas Rio Grande Valley, with a minor in Applied Statistics and Data Science.
 
 I work as an Information Security Student Analyst at UTRGV's Regional Security Operations Center, where I investigate live security alerts. I'm interested in privacy, protection, and the law. My goal is to commission in the Air Force as an officer to lead others and protect my country. My other goal, just as important, is to work in computer science or cybersecurity.
 
