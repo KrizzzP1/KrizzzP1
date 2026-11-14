@@ -8,7 +8,7 @@ Portfolio: [krizzzp1.github.io/Portfolio](https://krizzzp1.github.io/Portfolio/)
 ## Projects
 **[Know The Law](https://github.com/KrizzzP1/Know-The-Law)**: a bilingual constitutional rights navigator for the Rio Grande Valley. Won Best Beginner at Frontera Hacks 2026. [Live site](https://krizzzp1.github.io/Know-The-Law/)
 
-**[Isolated VM Attack Lab](https://krizzzp1.github.io/Portfolio/#projects)**: a Kali Linux attacker and a Metasploitable 2 target on an internal-only VirtualBox network, with a 12-step build manual I wrote and tested on my own hardware.
+**[Isolated VM Attack Lab](https://krizzzp1.github.io/Portfolio/#projects)**: a Kali Linux attacker and a Metasploitable 2 target on an internal-only VirtualBox network, with a 13-step build manual I wrote and tested on my own hardware.
 
 ## Skills
 C++ · Python · Git & GitHub · Linux · Wireshark · VirtualBox
