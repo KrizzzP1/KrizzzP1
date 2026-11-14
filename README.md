@@ -1,74 +1,24 @@
-# ⚖ Know The Law
-### Constitutional Rights Navigator for the Rio Grande Valley
+## About Me
+Hi, I'm Kriz. I'm a Computer Science and Criminal Justice double major at The University of Texas Rio Grande Valley, with a minor in Applied Statistics and Data Science.
 
-> *"Know your rights, be protected."*
+I work as an Information Security Student Analyst at UTRGV's Regional Security Operations Center, where I investigate live security alerts. I'm interested in privacy, protection, and the law. My goal is to work in computer science or cybersecurity. I also want to commission in the Air Force as an officer to lead others and protect my country.
 
-**Winner, Best Beginner at Frontera Hacks 2026** (UTRGV's hackathon)
+Portfolio: [krizzzp1.github.io/Portfolio](https://krizzzp1.github.io/Portfolio/)
 
-**Live site:** [krizzzp1.github.io/Know-The-Law](https://krizzzp1.github.io/Know-The-Law/)
+## Projects
+**[Know The Law](https://github.com/KrizzzP1/Know-The-Law)**: a bilingual constitutional rights navigator for the Rio Grande Valley. Won Best Beginner at Frontera Hacks 2026. [Live site](https://krizzzp1.github.io/Know-The-Law/)
 
----
+**[Isolated VM Attack Lab](https://krizzzp1.github.io/Portfolio/#projects)**: a Kali Linux attacker and a Metasploitable 2 target on an internal-only VirtualBox network, with a 12-step build manual I wrote and tested on my own hardware.
 
-## The Problem
+## Skills
+C++ · Python · Git & GitHub · Linux · Wireshark · VirtualBox
 
-The RGV navigates a layered law enforcement reality that most Americans never encounter: city and county police, the Texas Department of Public Safety, U.S. Border Patrol, ICE, CBP officers at checkpoints; all operating simultaneously.
+## Currently
+- Studying for CompTIA Security+
+- Working through Hack The Box Academy
 
-This is not hypothetical. It is daily life for the 1.4 million people who call the RGV home.
+## Contact
+Email: kpena3@hotmail.com
 
-In this environment, a routine traffic stop can involve federal agents. A walk through a parking lot can trigger a stop and question demand. Detainments at interior checkpoints, some as far as 70 miles from the border, can escalate quickly when people don't know what they are and are not legally required to do.
-
-**Most residents don't know their rights. And when they need that knowledge, there is no time to Google it.**
-
----
-
-## What Know The Law Does
-
-**Know The Law** is an interactive, decision-tree-based constitutional rights navigator built for everyday people.
-
-It walks users through real scenarios step by step:
-
-- *"Police want to search my vehicle"* — do I have to let them?
-- *"I was just arrested"* — what do I say, and when do I stop talking?
-- *"My bail seems too high"* — what are my options?
-- *"I'm in holding"* — what rights do I still have?
-
-Each path through the tree delivers an explanation of the relevant constitutional protection, a bulleted list of rights you can assert right now, and a high-visibility "What to say" block, and the exact words to use in a high-stress encounter.
-
----
-
-### The Offline Implication
-
-Rural stretches of Hidalgo, Cameron, Starr, and Willacy counties have inconsistent cellular coverage. Know The Law is built with zero runtime dependencies, no API calls, no CDN, no internet required. The entire application runs from a single folder of static files. A resident can save it to their phone, their car, or a USB drive and access it anywhere.
-
----
-
-### Bilingual
-
-The RGV is one of the most Spanish-dominant regions in the country. About 4 in 5 residents speak Spanish at home (U.S. Census Bureau, American Community Survey), and many are more comfortable navigating legal concepts in Spanish than in English. Know The Law is fully bilingual. An EN/ES toggle switches the whole app between English and Spanish at any point, without losing your place in the decision tree.
-
----
-
-## Constitutional Coverage
-
-| Amendment | What It Covers |
-|---|---|
-| **4th** | Home searches, vehicle stops, street detentions, Terry frisks, phone/device searches |
-| **5th** | Miranda rights, custodial interrogation, right to remain silent, compelled evidence, grand jury |
-| **6th** | Right to counsel, public defenders, arraignment, speedy trial, right to know charges |
-| **8th** | Bail process, excessive bail, bail denial, pre-trial detention rights, rights while in holding |
-
----
-
-## How It Was Built
-
-Know The Law was a solo project. I designed the decision tree: the scenarios it covers, the questions it asks, and every outcome a user can reach. I researched and wrote all of the legal content. The code was written with AI development tools that I directed, through testing and deployment.
-
----
-
-## Built For
-
-This project was built with the Rio Grande Valley community and Texas residents in mind, a region whose residents deserve the same access to legal knowledge that money and education have always provided to others.
-
----
-
-*My project "Know The Law" is for educational purposes only and does not constitute legal advice*
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/krizpena)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/KrizzzP1/)
